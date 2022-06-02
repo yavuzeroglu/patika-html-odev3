@@ -1,0 +1,30 @@
+.bg-gradient{
+    background: linear-gradient(260deg,rgba(219, 45, 45, 0.6),rgba(246, 218, 255, 0.6));
+    width: 800px;
+    color: #404953;
+    font-family: Barlow,sans-serif;
+    font-size: 1em;
+    
+    
+    
+}
+
+  
+
+.imgBx{
+    border-radius: 10px;
+}
+img:hover {
+    transform: scale(1.1);
+}
+.nav-sol {
+    margin:0 225px;
+    padding: 25px;
+    width: 400px;
+    
+    border:3px solid #373f49;
+    border-radius: 10px;
+    box-shadow: 9px 8px 34px -1px rgba(0,0,0,0.35);
+-webkit-box-shadow: 9px 8px 34px -1px rgba(0,0,0,0.35);
+-moz-box-shadow: 9px 8px 34px -1px rgba(0,0,0,0.35);
+}
